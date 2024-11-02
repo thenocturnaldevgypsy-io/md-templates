@@ -7,7 +7,7 @@
    <img src="https://img.shields.io/badge/Version-X.X.X-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version X.X.X">
    <img src="https://img.shields.io/badge/Lang-Java%20|%20HTML%20|%20CSS%20|%20JavaScript%20|%20PHP-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Lang-Java|HTML|CSS|JavaScript|PHP">
    <img src="https://img.shields.io/badge/Framework-Bootstrap-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Framework-Bootstrap">
-   <img src="https://img.shields.io/badge/Database-MySQL-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Framework-Bootstrap">
+   <img src="https://img.shields.io/badge/Database-MySQL-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Database-MySQL">
    <img src="https://img.shields.io/badge/NDA-YES/NO-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="NDA-YES/NO">
    <img src="https://img.shields.io/badge/Last%20Update-DD.MM.YYYY-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update DD.MM.YYYY">
 </p>
@@ -51,11 +51,15 @@ java version
 Java(TM) SE Runtime Environment 
 Java HotSpot(TM) 64-Bit Server VM 
 ```
-**Web Server**
+**Web Server and Database**
 ```
 MAMP by MAMP GmbH
 Version: 5.0.6 (7029)
 x64 binaries release
+
+PHP version: 8.3.1
+Database client version: libmysql - mysqlnd 8.3.1 
+phpMyAdmin Version information: 5.1.2
 ```
 **Framework and Tools**
 ```
