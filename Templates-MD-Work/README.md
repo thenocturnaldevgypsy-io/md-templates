@@ -69,16 +69,16 @@ x64 binaries release
 At the moment, the workspace contains the following folders, where:
 ```
 project-root/
-├─ assets/                # assets folder for images, css, js and other libraries
-│  ├─ img/               # main directory for storing image files
-│  │  └─ favicons/      # favicons for the app
-│  ├─ css/               # main directory for storing css files
-│  ├─ js/                # main directory for storing js files
-│  └─ vendor/            # main directory for the libraries used from vendors 
-├─ md_assets/             # assets folder for markdown files (documentation)
-├─ .gitignore             # files ignored by Git
-├─ README.md              # project documentation
-└─ LICENSE                # license file
+├─ assets/             # assets folder for images, css, js and other libraries
+│  ├─ img/             # main directory for storing image files
+│  │  └─ favicons/     # favicons for the app
+│  ├─ css/             # main directory for storing css files
+│  ├─ js/              # main directory for storing js files
+│  └─ vendor/          # main directory for the libraries used from vendors 
+├─ md_assets/          # assets folder for markdown files (documentation)
+├─ .gitignore          # files ignored by Git
+├─ README.md           # project documentation
+└─ LICENSE             # license file
 ```
 
 | Description | File/s |
@@ -103,18 +103,18 @@ blah blah blah...
 
 ## ![SECTION Sitemap](https://custom-icon-badges.demolab.com/badge/-Sitemap-2471AE?logo=map&logoSource=feather&logoColor=white&labelColor=2471AE)
 ```
-Home/                         #
-├─ Page 1.1/                 # 
-│  ├─ Page 1.1.1/           # 
+Home/                      #
+├─ Page 1.1/               # 
+│  ├─ Page 1.1.1/          # 
 │  │  └─ Page 1.1.1.1/     # 
-│  ├─ Page 1.1.2/           #
-│  ├─ Page 1.1.3/           #
-│  └─ Page 1.1.4/           #
-About Us                      #
-├─ Page 2.1/                 # 
-├─ Page 2.2/                 # 
-├─ Page 2.3/                 # 
-└─ Page 2.4/                 # 
+│  ├─ Page 1.1.2/          #
+│  ├─ Page 1.1.3/          #
+│  └─ Page 1.1.4/          #
+About Us                   #
+├─ Page 2.1/               # 
+├─ Page 2.2/               # 
+├─ Page 2.3/               # 
+└─ Page 2.4/               # 
 ```
 ## ![SECTION Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-2471AE?logo=tasklist&logoColor=white&labelColor=2471AE)
 See the [open issues](https://github.com/thenocturnaldevgypsy-io/REPO-NAME/issues) for a list of proposed features (and known issues) and the [project/s](https://github.com/thenocturnaldevgypsy-io/REPO-NAME/projects?query=is%3Aopen) that is currently linked to.
