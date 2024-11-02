@@ -110,7 +110,7 @@ blah blah blah...
 | ------------- | ------------- | ------------- |
 | [xxx](https://github.com/thenocturnaldevgypsy-io/REPO-NAME/) | XXX | What was done |
 
-## ![SECTION Sitemap](https://custom-icon-badges.demolab.com/badge/-Sitemap-24292e?logo=map&logoSource=feather&logoColor=white&labelColor=00416a)
+## ![SECTION Sitemap](https://custom-icon-badges.demolab.com/badge/-Sitemap-2471AE?logo=map&logoSource=feather&logoColor=white&labelColor=2471AE)
 ```
 Home/                      #
 ├─ Page 1.1/               # 
