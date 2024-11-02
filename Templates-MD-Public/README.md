@@ -153,5 +153,5 @@ Distributed under the MIT License by [Abegail Torrendon / thenocturnaldevgypsy](
 - The original [LICENSE](LICENSE.md) must be included with copies of this software.
 - Please link back (if you can fork, the better) to this repo. 
 
-## ![SECTION Get in Touch](https://custom-icon-badges.demolab.com/badge/-Get%20in%20Touch-24292e?logo=pencil&logoColor=white&labelColor=00416a)
+## ![SECTION Get in Touch](https://custom-icon-badges.demolab.com/badge/-Get%20in%20Touch-2471AE?logo=pencil&logoColor=white&labelColor=2471AE)
 I'd love to hear your thoughts on the project and get your suggestions. Feel free to [create new issue](https://github.com/thenocturnaldevgypsy-io/REPO-NAME/issues/new) on this repo or you can also contact me at [my AMA repo](https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything).
