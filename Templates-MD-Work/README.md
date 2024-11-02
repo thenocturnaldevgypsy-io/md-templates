@@ -99,7 +99,7 @@ blah blah blah...
 
 | Theme | Number of Variants | Description |
 | ------------- | ------------- | ------------- |
-| [xxx](https://github.com/thenocturnaldevgypsy-io) | XXX | What was done |
+| [xxx](https://github.com/thenocturnaldevgypsy-io/REPO-NAME/) | XXX | What was done |
 
 ## ![SECTION Sitemap](https://custom-icon-badges.demolab.com/badge/-Sitemap-2471AE?logo=map&logoSource=feather&logoColor=white&labelColor=2471AE)
 ```
