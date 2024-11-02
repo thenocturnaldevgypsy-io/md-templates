@@ -35,7 +35,7 @@
 - Thru ... 2: https://
 - Thru ... 3: https://
 
-## ![SECTION Build With ❤️ and ...](https://custom-icon-badges.demolab.com/badge/-Build%20With%20❤️%20and%20...-24292e?logo=tools&logoColor=white&labelColor=00416a)
+## ![SECTION Build With ❤️ and ...](https://custom-icon-badges.demolab.com/badge/-Build%20With%20❤️%20and%20...-2471AE?logo=tools&logoColor=white&labelColor=2471AE)
 
 **IDE and OS**
 ```
@@ -55,11 +55,15 @@ java version
 Java(TM) SE Runtime Environment 
 Java HotSpot(TM) 64-Bit Server VM 
 ```
-**Web Server**
+**Web Server and Database**
 ```
 MAMP by MAMP GmbH
 Version: 5.0.6 (7029)
 x64 binaries release
+
+PHP version: 8.3.1
+Database client version: libmysql - mysqlnd 8.3.1 
+phpMyAdmin Version information: 5.1.2
 ```
 **Framework and Tools**
 ```
@@ -68,23 +72,23 @@ x64 binaries release
 - Font: 
 ```
 
-## ![SECTION Folders and Files Structure](https://custom-icon-badges.demolab.com/badge/-Folders%20and%20Files%20Structure-24292e?logo=file-submodule&logoColor=white&labelColor=00416a)
+## ![SECTION Folders and Files Structure](https://custom-icon-badges.demolab.com/badge/-Folders%20and%20Files%20Structure-2471AE?logo=file-submodule&logoColor=white&labelColor=2471AE)
 
 At the moment, the repository contains the following structure, where:
 ```
 project-root/
-├── assets/                # assets folder for images, css, js and other libraries
-│   ├── img/               # main directory for storing image files
-│   │   └── favicons/      # favicons for the app
-│   ├── css/               # main directory for storing css files
-│   ├── js/                # main directory for storing js files
-│   └── vendor/            # main directory for the libraries used from vendors 
-├── md_assets/             # assets folder for markdown files (documentation)
-├── .gitignore             # files ignored by Git
-├── CONTRIBUTING.md        # contribution protocol documentation
-├── CHANGELOG.md           # project changelog documentation
-├── README.md              # project documentation
-└── LICENSE                # license file
+├─ assets/             # assets folder for images, css, js and other libraries
+│  ├─ img/             # main directory for storing image files
+│  │  └─ favicons/     # favicons for the app
+│  ├─ css/             # main directory for storing css files
+│  ├─ js/              # main directory for storing js files
+│  └─ vendor/          # main directory for the libraries used from vendors 
+├─ md_assets/          # assets folder for markdown files (documentation)
+├─ .gitignore          # files ignored by Git
+├─ CONTRIBUTING.md     # contribution protocol documentation
+├─ CHANGELOG.md        # project changelog documentation
+├─ README.md           # project documentation
+└─ LICENSE             # license file
 ```
 | Description | File/s |
 | ------------- | ------------- |
@@ -92,60 +96,62 @@ project-root/
 | Main CSS of the template | `assets/css/main-style.css` |
 | Main JS of the template | `assets/js/main-core.js` |
 
-## ![SECTION Prerequisites](https://custom-icon-badges.demolab.com/badge/-Prerequisites-24292e?logo=alert&logoColor=white&labelColor=00416a)
+## ![SECTION Prerequisites](https://custom-icon-badges.demolab.com/badge/-Prerequisites-2471AE?logo=alert&logoColor=white&labelColor=2471AE)
 blah blah blah...
 
 > [!IMPORTANT]
 > *If there's a need to put some note here*
 
-## ![SECTION Contents and Breakdown](https://custom-icon-badges.demolab.com/badge/-Contents%20and%20Breakdown-24292e?logo=book&logoColor=white&labelColor=00416a)
+## ![SECTION Contents and Breakdown](https://custom-icon-badges.demolab.com/badge/-Contents%20and%20Breakdown-2471AE?logo=book&logoColor=white&labelColor=2471AE)
 - ✅ Under ...
 - 🚧 Under ...
 
 | Theme | Number of Variants | Description |
 | ------------- | ------------- | ------------- |
-| [xxx](https://github.com/thenocturnaldevgypsy) | XXX | What was done |
+| [xxx](https://github.com/thenocturnaldevgypsy-io/REPO-NAME/) | XXX | What was done |
 
 ## ![SECTION Sitemap](https://custom-icon-badges.demolab.com/badge/-Sitemap-24292e?logo=map&logoSource=feather&logoColor=white&labelColor=00416a)
 ```
-Home/                         #
-├── Page 1.1/                 # 
-│   ├── Page 1.1.1/           # 
-│   │   └── Page 1.1.1.1/     # 
-│   ├── Page 1.1.2/           #
-│   ├── Page 1.1.3/           #
-│   └── Page 1.1.4/           #
-About Us                      #
-├── Page 2.1/                 # 
-├── Page 2.2/                 # 
-├── Page 2.3/                 # 
-└── Page 2.4/                 # 
+Home/                      #
+├─ Page 1.1/               # 
+│  ├─ Page 1.1.1/          # 
+│  │  └─ Page 1.1.1.1/     # 
+│  ├─ Page 1.1.2/          #
+│  ├─ Page 1.1.3/          #
+│  └─ Page 1.1.4/          #
+About Us                   #
+├─ Page 2.1/               # 
+├─ Page 2.2/               # 
+├─ Page 2.3/               # 
+└─ Page 2.4/               # 
 ```
 
-## ![SECTION Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-24292e?logo=tasklist&logoColor=white&labelColor=00416a)
-See the [open issues](https://github.com/thenocturnaldevgypsy/repo-link/issues) for a list of proposed features (and known issues).
+## ![SECTION Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-2471AE?logo=tasklist&logoColor=white&labelColor=2471AE)
+See the [open issues](https://github.com/thenocturnaldevgypsy-io/REPO-NAME/issues) and the [project](https://github.com/thenocturnaldevgypsy-io/REPO-NAME/projects?query=is%3Aopen)'s Backlog  for the list of proposed features (and known issues).
 
-## ![SECTION Changelog](https://custom-icon-badges.demolab.com/badge/-Changelog-24292e?logo=log&logoColor=white&labelColor=00416a)
+## ![SECTION Changelog](https://custom-icon-badges.demolab.com/badge/-Changelog-2471AE?logo=log&logoColor=white&labelColor=2471AE)
 
 Below is the latest updates, go to the [Changelog Listing](CHANGELOG.md) for the complete information.
 
 | Version | Date | Commit | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| X.X.X | DD.MM.YYYY | [Commit ID](https://github.com/thenocturnaldevgypsy) for [PR ID](https://github.com/thenocturnaldevgypsy), [Commit ID](https://github.com/thenocturnaldevgypsy) | fix/feat | What was done ([PR ID](https://github.com/thenocturnaldevgypsy)) |
+| X.X.X | DD.MM.YYYY | [Commit ID](https://github.com/thenocturnaldevgypsy-io) for [PR ID](https://github.com/thenocturnaldevgypsy-io), [Commit ID](https://github.com/thenocturnaldevgypsy-io) | fix/feat | What was done ([PR ID](https://github.com/thenocturnaldevgypsy-io)) |
 
-## ![SECTION Contribute](https://custom-icon-badges.demolab.com/badge/-Contribute-24292e?logo=code-of-conduct&logoColor=white&labelColor=00416a)
+## ![SECTION Contribute](https://custom-icon-badges.demolab.com/badge/-Contribute-2471AE?logo=code-of-conduct&logoColor=white&labelColor=2471AE)
 Want to contribute? Great! Contributions welcome, but please read the [contribution guidelines](CONTRIBUTING.md) first on how to contribute to the project, including pull request guidelines and community contributions.
 
-## ![SECTION Forking the Repo](https://custom-icon-badges.demolab.com/badge/-Forking%20the%20Repo-24292e?logo=repo-forked&logoColor=white&labelColor=00416a)
+## ![SECTION Forking the Repo](https://custom-icon-badges.demolab.com/badge/-Forking%20the%20Repo-2471AE?logo=repo-forked&logoColor=white&labelColor=2471AE)
 
-If you'd like to create your own AMA repository:
+If you'd like to use this repo for your own project, I would like to ask a favor from you:
+- Please do 🌟 and 👁️ this repo (or, maybe ❤️ by buying me a ☕ at **Ko-Fi**? :smiling_face_with_tear:).
 - Click `Fork` at the top of this page.
+- Please be mindful of the [LICENSE](LICENSE.md) applicable
 
-## ![SECTION License](https://custom-icon-badges.demolab.com/badge/-License-24292e?logo=file-badge&logoColor=white&labelColor=00416a)
-Distributed under the MIT License by [Abegail Torrendon / thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy).
+## ![SECTION License](https://custom-icon-badges.demolab.com/badge/-License-2471AE?logo=file-badge&logoColor=white&labelColor=2471AE)
+Distributed under the MIT License by [Abegail Torrendon / thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy-io).
 - You can freely modify and reuse.
 - The original [LICENSE](LICENSE.md) must be included with copies of this software.
 - Please link back (if you can fork, the better) to this repo. 
 
 ## ![SECTION Get in Touch](https://custom-icon-badges.demolab.com/badge/-Get%20in%20Touch-24292e?logo=pencil&logoColor=white&labelColor=00416a)
-I'd love to hear your thoughts on the project and get your suggestions. Feel free to [create new issue](https://github.com/thenocturnaldevgypsy/repo-name/issues/new) on this repo or you can also contact me at [my AMA repo](https://github.com/thenocturnaldevgypsy/ama-ask-me-anything).
+I'd love to hear your thoughts on the project and get your suggestions. Feel free to [create new issue](https://github.com/thenocturnaldevgypsy-io/REPO-NAME/issues/new) on this repo or you can also contact me at [my AMA repo](https://github.com/thenocturnaldevgypsy-io/ama-ask-me-anything).

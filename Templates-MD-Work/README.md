@@ -120,6 +120,7 @@ About Us                   #
 ├─ Page 2.3/               # 
 └─ Page 2.4/               # 
 ```
+
 ## ![SECTION Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-2471AE?logo=tasklist&logoColor=white&labelColor=2471AE)
 See the [open issues](https://github.com/thenocturnaldevgypsy-io/REPO-NAME/issues) and the [project](https://github.com/thenocturnaldevgypsy-io/REPO-NAME/projects?query=is%3Aopen)'s Backlog  for the list of proposed features (and known issues).
 
