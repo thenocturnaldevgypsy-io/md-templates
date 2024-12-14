@@ -38,7 +38,7 @@ Hi! I appreciate your interest in contributing. 😊 This guide will help you ge
 - If there is no open issue for your problem/request, submit a new issue, and please make sure to choose the right labels:
    - `bug` : for something isn't working
    - `documentation` : improvements or addition to the existing documentation
-   - `enhancement` : new feature or request
+   - `enhancement` : new feature request
    
    Do your best to fill out each field, preferably in as much detail as possible.
 - Assign the ticket to me ([Abegail Torrendon / thenocturnaldevgypsy](https://github.com/thenocturnaldevgypsy-io)) so I can review and I'll work on it (or maybe we can collab!).
