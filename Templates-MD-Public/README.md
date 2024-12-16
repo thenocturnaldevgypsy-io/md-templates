@@ -138,7 +138,7 @@ Below is the latest updates, go to the [Changelog Listing](CHANGELOG.md) for the
 | X.X.X | DD.MM.YYYY | [Commit ID](https://github.com/thenocturnaldevgypsy-io) for [PR ID](https://github.com/thenocturnaldevgypsy-io), [Commit ID](https://github.com/thenocturnaldevgypsy-io) | fix/feat | What was done ([PR ID](https://github.com/thenocturnaldevgypsy-io)) |
 
 ## ![SECTION Contribute](https://custom-icon-badges.demolab.com/badge/-Contribute-2471AE?logo=code-of-conduct&logoColor=white&labelColor=2471AE)
-Want to contribute? Great! Contributions welcome, but please read the [contribution guidelines](CONTRIBUTING.md) first on how to contribute to the project, including pull request guidelines and community contributions.
+Contributions are welcome! Feel free to open an issue or submit a pull request if you have a way to improve this project. Refer to [CONTRIBUTING.md](CONTRIBUTING.md) for more details on how to contribute to the project, including installing requirements, pull request guidelines, running the application and community contributions.
 
 ## ![SECTION Forking the Repo](https://custom-icon-badges.demolab.com/badge/-Forking%20the%20Repo-2471AE?logo=repo-forked&logoColor=white&labelColor=2471AE)
 

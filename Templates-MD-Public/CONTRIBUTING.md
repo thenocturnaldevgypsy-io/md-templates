@@ -19,7 +19,9 @@
 
 ## ![SECTION Contribute](https://custom-icon-badges.demolab.com/badge/-Contribute-2471AE?logo=code-of-conduct&logoColor=white&labelColor=2471AE)
 
-Hi! I appreciate your interest in contributing. 😊 This guide will help you get started to make your first contribution.
+Contributions are welcome! Feel free to open an issue or submit a pull request if you have a way to improve this project. This guide will help you get started to make your first contribution.
+
+Make sure your request is meaningful and you have tested the app locally before submitting an issue or pull request.
 
 ## ![SUBSECTION What can you Contribute](https://custom-icon-badges.demolab.com/badge/-What%20you%20can%20Contribute-24292e?logo=people&logoColor=white&labelColor=00416a)
 
